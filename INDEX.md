@@ -22,6 +22,7 @@ Start with `README.md`. If you only have two minutes, read `workflow/07` (the co
 | `workflow/07-facebook-comment-final.md` | The comment with the disclosure, as posted the second time | …the finished thing |
 | `workflow/09-facebook-reply-to-students.md` | The short note to the students, as posted under the comment | …what the class actually saw, second half |
 | `workflow/10-facebook-second-question.md` | A second question posed to the class: does the ability to verify create a duty to correct? | …where the argument goes next |
+| `workflow/11-ten-frameworks.md` | Ten philosophical traditions applied to the answer, verbatim from a fresh Grok chat, with the author's reading of which three objections land | …whether more philosophy changed the verdict (no), the reasoning (yes), or what's allowed in some cases (yes) |
 | `workflow/08-grok-review.md` | A fresh Grok chat's review of the final texts, verbatim, and what changed because of it | …what an adversarial last pass caught, and what the author kept anyway |
 | `sources/clifford.md` | Where the shipowner story comes from and how to read it yourself | …whether the 1877 essay says what the comment says it says |
 | `sources/india-2018.md` | The reporting behind "about two dozen," and why not a precise number | …whether the harm case is real and how firm the number is |
