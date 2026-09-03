@@ -19,9 +19,9 @@ Read that table carefully, because the big number is not what it looks like. Abo
 
 For scale: the brief to Grok is about 1,000 tokens. Grok's draft is about 8,600. The final comment is about 900. This entire folder is about 18,000. The Facebook comment is roughly 0.003% of the tokens processed to make it.
 
-## The Grok side (not measured)
+## The Grok side (measured as a share, not in tokens)
 
-Grok Heavy does not show me its token count, and the later deliberation session that decided how to disclose all this is not included here at all. It is a flat subscription, about $300 a month, so the marginal cost of this one research run to me was zero and the compute behind it is unknown. I am not going to invent a number.
+Grok Heavy does not show a token count, but it does show a usage meter. The research run that produced `workflow/03` used **3% of my plan's allowance for the period.** The plan is about $300 a month, so if you pro-rate it, that one run was roughly $9 of subscription capacity. That is the fairest number I have; the tokens and the compute behind them are not visible to me, and the later deliberation session that decided how to disclose all this is not counted here at all. The marginal dollar cost to me was still zero, because the subscription was paid either way.
 
 ## The Google side (free, unmeasured)
 
