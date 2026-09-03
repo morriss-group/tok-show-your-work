@@ -1,0 +1,9 @@
+# 09 — The reply to the students, as posted under the comment (2026-09-03, early morning)
+
+Posted as a reply to the author's own comment so it sits under the answer instead of competing with it. The long version is `TO-THE-STUDENTS.md`.
+
+---
+
+One more thing, for the students rather than the question. I was in high school in 1996. Research meant the Encyclopaedia Britannica on a shelf, or the library, where you found a book by flipping through a card catalog and walking to the Dewey Decimal number on the spine. If the library didn't have it, you waited weeks or went without. This week I woke up at 3:30 in the morning, saw this question, and spent the next two hours on it with the tools described under my answer. The hard part wasn't finding the answer. It was deciding whether to trust it. The finding got cheap. The trusting didn't.
+
+If you're being told AI is cheating and to stay away from it, I'd push back a little. I fix appliances for a living, and three weeks ago I didn't know what GitHub was; now I use these tools all day in a repair business. The jobs most of us plan for, mine included, are shaped by the last twenty years. I don't know how fast that changes. Emad Mostaque, who founded one of the AI labs, said on August 28 that remote jobs have about two years left; within days Sam Altman, the head of OpenAI, said the job impact has been lower than he expected. Sorting out which of them has the evidence and which has the incentive is exactly what your class is for. What I'm sure of is smaller: producing something that looks like good work is now nearly free, and producing work that's actually right is not. Learn to use the tool. Learn to check it. Do the reading yourself; I didn't this time, and my comment says so. There's a page in the folder that says all this properly, both sides.
