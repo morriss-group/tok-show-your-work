@@ -10,6 +10,7 @@ Start with `README.md`. If you only have two minutes, read `workflow/07` (the co
 | `REDACTIONS.md` | What was stripped out and why | …whether this folder is a dump (it isn't) |
 | `WHAT-IS-GITHUB.md` | GitHub explained for someone who has never heard of it | …how to read this folder if you don't know what a repo is |
 | `HOW-AI-RESEARCH-CHANGED.md` | A dated note on why this research was possible in 2026 and not a year earlier, and what didn't change | …whether the tools changed the duty or only the cost of looking like you met it |
+| `TO-THE-STUDENTS.md` | Why the author showed the machine, and his read on where AI takes the jobs you're planning for — both sides, marked where he's guessing | …why a repairman put his homework online, and what he'd tell you to do about AI |
 | `COST.md` | Tokens measured on the Claude side (28 million processed, 93% of it re-reading the workshop), what couldn't be measured, and why no dollar figure | …what one checked answer actually costs next to a free one |
 | `workflow/00-google-ai-mode.md` | The control: the question typed into Google AI Mode once, answer verbatim | …what a classmate with a free tool gets |
 | `workflow/01-facebook-question.md` | The teacher's question and the author's exact first request to Claude | …what the machines were actually asked |
