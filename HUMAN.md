@@ -13,9 +13,9 @@ I never wanted to do homework. Teachers said "show your work" and I found ways a
 - The first-person details are mine and true: the trade, the side work, and catching my AI wrong three times in one week on things that would have cost me money. Nobody invented that persona.
 
 ## What I verified against sources
-- **[MARC ANSWERS — do not guess]** Clifford, *The Ethics of Belief*: did I read the essay myself, or only the models' summaries? → 
-- **[MARC ANSWERS — do not guess]** India 2018 reporting (NYT, Indian Express, BBC): did I open the articles myself? → 
-- Until those two lines are filled in, the honest status is: **accepted from the models, with the sources listed in `/sources` so anyone can check.**
+- Clifford, *The Ethics of Belief*: **I did not read the essay myself.** I took the shipowner story from the models' summaries. The essay is public domain and `sources/clifford.md` says where to find it.
+- India 2018 reporting (NYT, Indian Express, BBC): **I did not open the articles myself.** The "about two dozen" figure is the models' reconciliation of three outlets, and `sources/india-2018.md` names them so you can.
+- So the honest status of every fact in the comment is: **accepted from the models, sources listed, unverified by me.** That is exactly the situation the comment warns about, and I'd rather say so than pretend otherwise.
 
 ## What I still don't know
 - Whether James's rebuttal to Clifford has a stronger digital-era version than the one Grok gave it.
