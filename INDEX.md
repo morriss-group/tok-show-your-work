@@ -20,6 +20,7 @@ Start with `README.md`. If you only have two minutes, read `workflow/07` (the co
 | `workflow/05-posted-then-deleted.md` | The version that went up and came down (stub until pasted) | …what was actually said publicly the first time |
 | `workflow/06-human-edits.md` | The author's edits, in his words (stub until filled) | …what the person changed |
 | `workflow/07-facebook-comment-final.md` | The comment with the disclosure, as posted the second time | …the finished thing |
+| `workflow/08-grok-review.md` | A fresh Grok chat's review of the final texts, verbatim, and what changed because of it | …what an adversarial last pass caught, and what the author kept anyway |
 | `sources/clifford.md` | Where the shipowner story comes from and how to read it yourself | …whether the 1877 essay says what the comment says it says |
 | `sources/india-2018.md` | The reporting behind "about two dozen," and why not a precise number | …whether the harm case is real and how firm the number is |
 
