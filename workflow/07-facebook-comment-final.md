@@ -1,6 +1,6 @@
 # 07 — The Facebook comment, final (after the Grok review in file 08)
 
-Leads with the one-line answer the teacher asked for, then the argument, then the method note. Changed after review: the forwarders line no longer claims to know what they thought; the "second model" sentence now admits that a check between machines is not a check against the world; the teacher line is shorter and the "outsider" phrasing is gone; the closer says a fresh Grok chat reviewed the final draft. The repo link is a placeholder until the repo exists.
+Leads with the one-line answer the teacher asked for, then the argument, then the method note. Changed after review: the forwarders line no longer claims to know what they thought; the "second model" sentence now admits that a check between machines is not a check against the world; the teacher line is shorter and the "outsider" phrasing is gone; the closer says a fresh Grok chat reviewed the final draft. The repo link at the end is live.
 
 ---
 
