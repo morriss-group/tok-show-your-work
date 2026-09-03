@@ -5,6 +5,15 @@
 
 **The one-line answer I gave:** Yes. The duty scales with how far the claim can travel and how much it can hurt someone if it is wrong.
 
+**Latest additions** (newest first, each one tap):
+- [Ten philosophical frameworks against the answer](workflow/11-ten-frameworks.md), and which three objections land (Sept 3)
+- [The second question posted to the class](workflow/10-facebook-second-question.md): does the ability to verify create a duty to correct? (Sept 3)
+- [The final review before posting](workflow/08-grok-review.md), verbatim, and what changed because of it (Sept 3)
+- [What it cost](COST.md), in tokens and in a share of a subscription (Sept 3)
+- [To the students](TO-THE-STUDENTS.md): why the machine is shown, and where AI takes the jobs you're planning for (Sept 3)
+
+**Read in this order if you're new:** [the comment as posted](workflow/07-facebook-comment-final.md) → [what a free tool said instead](COMPARE.md) → [what the human actually did](HUMAN.md) → [the index of every file](INDEX.md).
+
 This folder is the factory behind that comment. Not my whole AI history, not a manifesto. Just what produced this one answer, in the order it happened, so a student can see how much of the answer was mine, how much was a machine's, and what a free tool said when asked the same thing.
 
 ## The pipeline, in order
