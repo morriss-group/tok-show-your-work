@@ -1,0 +1,8 @@
+# Source — W. K. Clifford, "The Ethics of Belief" (1877)
+
+- **What it is:** an essay by William Kingdon Clifford, English mathematician and philosopher, first published in *The Contemporary Review*, January 1877; reprinted in *Lectures and Essays* (1879).
+- **Where to read it (free, primary):** the full text is public domain. Project Gutenberg carries *Lectures and Essays*; many philosophy departments host the essay alone. Search the exact title; confirm the shipowner paragraph opens Part I.
+- **The two parables used in this comment:** (1) the shipowner who stifles his doubts about an old emigrant ship, sincerely believes it sound, and sends it to sea — "he had no right to believe on such evidence as was before him," and had the ship arrived safely "he would not have been innocent, he would only have been not found out"; (2) the island agitators who publish accusations against a religious minority on prejudice rather than inquiry — the closer analogue to forwarding a rumor.
+- **The line everyone quotes:** "It is wrong always, everywhere, and for anyone, to believe anything upon insufficient evidence." The comment deliberately does NOT adopt that absolute; it argues for a proportional duty instead.
+- **The standard reply:** William James, "The Will to Believe" (1896), which argues Clifford's rule is itself a passion (fear of error) and licenses belief on passional grounds only for options that are living, forced, and momentous. Forwarding a rumor about a stranger is none of those three.
+- **Verification status:** the parables and quotations above are checked against the essay text. Whether Marc read the essay himself is stated in HUMAN.md, not here.
