@@ -9,7 +9,7 @@ I never wanted to do homework. Teachers said "show your work" and I found ways a
 - Every philosopher's name and every quotation, as first written.
 
 ## What I changed
-- **[MARC FILLS IN]** The lines I cut, the lines I added, and the one edit I made after posting.
+- **Not recorded at the time.** I cut and added lines by hand before posting and made one edit after, and I did not keep the earlier text. This folder shows the machine's side in full and the human side only where it was saved. That is a gap in the record, and it stays labeled as one rather than being reconstructed from memory.
 - The first-person details are mine and true: the trade, the side work, and catching my AI wrong three times in one week on things that would have cost me money. Nobody invented that persona.
 
 ## What I verified against sources

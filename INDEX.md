@@ -17,7 +17,7 @@ Start with `README.md`. If you only have two minutes, read `workflow/07` (the co
 | `workflow/02-claude-brief-for-grok.md` | The research brief Claude wrote for Grok, verbatim | …how much of the answer's shape was chosen before any research happened |
 | `workflow/03-grok-draft.md` | Grok Heavy's research draft, verbatim | …where the philosophers, cases, and hedges came from |
 | `workflow/04-claude-rewrite.md` | Claude's first rewrite of Grok into a comment | …what "in my voice" looked like before a human touched it |
-| `workflow/05-posted-then-deleted.md` | The version that went up and came down (stub until pasted) | …what was actually said publicly the first time |
+| `workflow/05-posted-then-deleted.md` | The version that went up and came down (the first version is gone; see the file) | …what was actually said publicly the first time |
 | `workflow/06-human-edits.md` | The author's edits, in his words (stub until filled) | …what the person changed |
 | `workflow/07-facebook-comment-final.md` | The comment with the disclosure, as posted the second time | …the finished thing |
 | `workflow/09-facebook-reply-to-students.md` | The short note to the students, as posted under the comment | …what the class actually saw, second half |

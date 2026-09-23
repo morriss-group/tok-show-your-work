@@ -4,6 +4,8 @@ Run once, by Marc, on the teacher's exact Facebook framing plus the question. Th
 
 Share link (may expire; this file is the archive): https://share.google/aimode/kSZ7f7rhSTzO1JH9I
 
+*Link dead as of September 23, 2026 (it redirects to a Google error page). The answer pasted below is the archive.*
+
 ---
 
 **Prompt:**

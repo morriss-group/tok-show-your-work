@@ -26,7 +26,7 @@ Software is written by many people editing the same files at once, often strange
 
 - The file list is the table of contents. `README.md` is the front page; `INDEX.md` explains every file in one line each.
 - Files ending in `.md` are plain text with light formatting. They open in your browser.
-- The `workflow` folder is the sequence, numbered 00 to 07. Read them in order and you'll watch the comment get made.
+- The `workflow` folder is the sequence, numbered 00 to 11. Read them in order and you'll watch the comment get made.
 - "Commits" at the top shows the history. Click it if you want to see when each file appeared or changed.
 - If something looks wrong to you, there's a way to say so on the site (an **issue**), or you can just reply on Facebook.
 

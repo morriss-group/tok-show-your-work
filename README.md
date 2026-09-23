@@ -6,11 +6,11 @@
 **The one-line answer I gave:** Yes. The duty scales with how far the claim can travel and how much it can hurt someone if it is wrong.
 
 **Latest additions** (newest first, each one tap):
-- [Ten philosophical frameworks against the answer](workflow/11-ten-frameworks.md), and which three objections land (Sept 3)
-- [The second question posted to the class](workflow/10-facebook-second-question.md): does the ability to verify create a duty to correct? (Sept 3)
-- [The final review before posting](workflow/08-grok-review.md), verbatim, and what changed because of it (Sept 3)
-- [What it cost](COST.md), in tokens and in a share of a subscription (Sept 3)
-- [To the students](TO-THE-STUDENTS.md): why the machine is shown, and where AI takes the jobs you're planning for (Sept 3)
+- [Ten philosophical frameworks against the answer](workflow/11-ten-frameworks.md), and which three objections land (2026-09-03)
+- [The second question posted to the class](workflow/10-facebook-second-question.md): does the ability to verify create a duty to correct? (2026-09-03)
+- [The final review before posting](workflow/08-grok-review.md), verbatim, and what changed because of it (2026-09-03)
+- [What it cost](COST.md), in tokens and in a share of a subscription (2026-09-03)
+- [To the students](TO-THE-STUDENTS.md): why the machine is shown, and where AI takes the jobs you're planning for (2026-09-03)
 
 **Read in this order if you're new:** [the comment as posted](workflow/07-facebook-comment-final.md) → [what a free tool said instead](COMPARE.md) → [what the human actually did](HUMAN.md) → [the index of every file](INDEX.md).
 
@@ -47,3 +47,5 @@ The first post said all of the above about chatbots and none of it about itself.
 ## About the author, in one paragraph
 
 I repair appliances for a living and build AI systems on the side. Teachers told me to show my work and I never wanted to do the homework. Now I build systems that do the homework, and this folder shows the work on that fact too. Building the system is a real kind of knowing-how. Understanding Clifford, or what happened in India in 2018, is a different job, and a machine drafting it for me doesn't mean I did it. `HUMAN.md` says where I actually stand.
+
+License: MIT, the same as the other public repositories under morriss-group. See [LICENSE](LICENSE).
