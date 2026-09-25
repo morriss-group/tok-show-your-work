@@ -10,7 +10,6 @@ Start with `README.md`. If you only have two minutes, read `workflow/07` (the co
 | `REDACTIONS.md` | What was stripped out and why | …whether this folder is a dump (it isn't) |
 | `WHAT-IS-GITHUB.md` | GitHub explained for someone who has never heard of it | …how to read this folder if you don't know what a repo is |
 | `HOW-AI-RESEARCH-CHANGED.md` | A dated note on why this research was possible in 2026 and not a year earlier, and what didn't change | …whether the tools changed the duty or only the cost of looking like you met it |
-| `TO-THE-STUDENTS.md` | Why the author showed the machine, and his read on where AI takes the jobs you're planning for — both sides, marked where he's guessing | …why a repairman put his homework online, and what he'd tell you to do about AI |
 | `COST.md` | Tokens measured on the Claude side (28 million processed, 93% of it re-reading the workshop), what couldn't be measured, and why no dollar figure | …what one checked answer actually costs next to a free one |
 | `workflow/00-google-ai-mode.md` | The control: the question typed into Google AI Mode once, answer verbatim | …what a classmate with a free tool gets |
 | `workflow/01-facebook-question.md` | The teacher's question and the author's exact first request to Claude | …what the machines were actually asked |
@@ -20,7 +19,6 @@ Start with `README.md`. If you only have two minutes, read `workflow/07` (the co
 | `workflow/05-posted-then-deleted.md` | The version that went up and came down (the first version is gone; see the file) | …what was actually said publicly the first time |
 | `workflow/06-human-edits.md` | The author's edits: not recorded at the time, and the file says so | …what the person changed |
 | `workflow/07-facebook-comment-final.md` | The comment with the disclosure, as posted the second time | …the finished thing |
-| `workflow/09-facebook-reply-to-students.md` | The short note to the students, as posted under the comment | …what the class actually saw, second half |
 | `workflow/10-facebook-second-question.md` | A second question posed to the class: does the ability to verify create a duty to correct? | …where the argument goes next |
 | `workflow/11-ten-frameworks.md` | Ten philosophical traditions applied to the answer, verbatim from a fresh Grok chat, with the author's reading of which three objections land | …whether more philosophy changed the verdict (no), the reasoning (yes), or what's allowed in some cases (yes) |
 | `workflow/08-grok-review.md` | A fresh Grok chat's review of the final texts, verbatim, and what changed because of it | …what an adversarial last pass caught, and what the author kept anyway |

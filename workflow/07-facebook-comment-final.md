@@ -4,6 +4,8 @@ Leads with the one-line answer the teacher asked for, then the argument, then th
 
 ---
 
+> **Note (2026-09-24):** this is the comment exactly as it was posted, kept word for word on purpose, because the point of this repo is to show the finished thing. That also makes it a search key back to the live thread. The thread is not linked from here, the school and the people in it are not named, and the thread was a teacher-opened, public-facing discussion with comments enabled. If you found the thread through this text, please leave the students out of it.
+
 Yes. The duty scales with how far the claim can travel and how much it can hurt someone if it is wrong.
 
 Here's my rationale. I repair appliances for a living and build AI systems on the side. Every piece of research my AI does gets checked by a second model from a different company before I act on it, because I caught it wrong three times in one week on things that would have cost me money. That's a check between machines, which, as I'll argue below, is not the same as a check against the world. But it's taught me what a confident, fluent, well-written wrong answer looks like.

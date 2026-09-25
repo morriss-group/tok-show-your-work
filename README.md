@@ -10,7 +10,8 @@
 - [The second question posted to the class](workflow/10-facebook-second-question.md): does the ability to verify create a duty to correct? (2026-09-03)
 - [The final review before posting](workflow/08-grok-review.md), verbatim, and what changed because of it (2026-09-03)
 - [What it cost](COST.md), in tokens and in a share of a subscription (2026-09-03)
-- [To the students](TO-THE-STUDENTS.md): why the machine is shown, and where AI takes the jobs you're planning for (2026-09-03)
+
+**About the thread (added 2026-09-24):** the class thread this comment was posted in was opened by the teacher as a public-facing discussion with comments enabled. Nothing in this repo links to it, names the school or anyone in it, or quotes any student. Two pages that were written to the students directly were removed on 2026-09-24 after an outside review; see `REDACTIONS.md`.
 
 **Read in this order if you're new:** [the comment as posted](workflow/07-facebook-comment-final.md) → [what a free tool said instead](COMPARE.md) → [what the human actually did](HUMAN.md) → [the index of every file](INDEX.md).
 
